@@ -64,4 +64,5 @@ while (True):
     
         print ("Error= "+str (err))
         sleep (2)
+
 #referencia: https://www.profetolocka.com.ar/2022/04/25/aprende-a-programar-la-esp32-cam-en-micropython-parte-2/
