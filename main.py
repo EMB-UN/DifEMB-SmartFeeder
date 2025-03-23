@@ -93,7 +93,6 @@ while True:
             #foto+=1
             
             sleep (1/48)
-            #borrar la imagen
         except Exception as err:
         
             print ("Error= "+str (err))
