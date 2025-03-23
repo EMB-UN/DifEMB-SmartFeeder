@@ -62,10 +62,10 @@ while True:
             camera.saturation (2)
                    
             #calidad
-            camera.quality(20)
+            camera.quality(10)
             
             # special effects
-            camera.speffect(camera.EFFECT_BW)
+            camera.speffect(camera.EFFECT_NONE)
              
             # white balance
             camera.whitebalance(camera.WB_NONE)
